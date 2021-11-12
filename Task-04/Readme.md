@@ -18,7 +18,7 @@ my_parser.add_argument('--id',action='store',type=int,required=True)
 args= my_parser.parse_args()
 
 
-url = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date="+args.date+"&api_key= gUJ2TONnabjFHuVRoP8TbgV41kN6zHBd1gYcZsa2"
+url = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date="+args.date+"&api_key=cjyZIONMWxqv1afcEuMPITH0bhRmiG4Ct0PxgLem"
 sourse = requests.get(url).json()
 
 
