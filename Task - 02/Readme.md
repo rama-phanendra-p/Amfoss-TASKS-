@@ -1,1 +1,1 @@
-# Amrita ,Amritapuri
+# Amrita Vishwa Vidhyapeetham ,Amritapuri
