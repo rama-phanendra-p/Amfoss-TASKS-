@@ -1,3 +1,12 @@
+# Rama Phanendra Posimsetti
+I am Rama Phanendra P from kakinda, Andhra pradesh,fresher at Amrita School of Engineering(EAC 2021)
+
+|Tasks List| |Description| |Status|
+|:------|    |:------|     |:------|
+|Task-1|     |hjsdbh|      |bj cc|
+
+
+
 # INTRODUCTION
 
 Hello Everyone!I am Rama Phanendra P from Kakinda,Andhra Pradesh.I got to know about amFoss through quora.It really amazed me 
