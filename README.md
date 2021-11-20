@@ -1,11 +1,5 @@
 # Rama Phanendra Posimsetti
-I am Rama Phanendra P from kakinda, Andhra pradesh,fresher at Amrita School of Engineering(EAC 2021)
-
-|Tasks List| |Description| |Status|
-|:------|    |:------|     |:------|
-|Task-1|     |hjsdbh|      |bj cc|
-
-
+I am Rama Phanendra P from kakinda, Andhra pradesh,fresher at Amrita School of Engineering(EAC 2021).
 
 # INTRODUCTION
 
